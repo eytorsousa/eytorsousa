@@ -1,11 +1,12 @@
 ### Olá! Me chamo Eytor, tenho 19 anos e sou apaixonado por programação e tecnologia.
 
  - 🏫 Cursando Análise e Desenvolvimento de Sistemas pelo IFSP - Guarulhos.
- - 📖 Estudando 📙HTML5 & 📘CSS3
+ - 📖 Estudando 📙HTML5, 📘CSS3 & 📒JavaScript
 
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
