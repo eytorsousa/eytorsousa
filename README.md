@@ -1,6 +1,6 @@
-### Olá! Me chamo Eytor, tenho 19 anos e sou apaixonado por programação e tecnologia.
-
- - 🏫 Cursando Análise e Desenvolvimento de Sistemas pelo IFSP - Guarulhos.
+### Olá, seja bem-vindo(a) ao meu perfil!
+ 
+ - Me chamo Eytor, tenho 19 anos e sou apaixonado por programação e tecnologia. 👩‍💻
  - 📖 Estudando 📙HTML5, 📘CSS3 & 📗C.
  
 ###  
