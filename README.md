@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a) ao meu perfil!
  
  - Me chamo Eytor, tenho 19 anos e sou apaixonado por programação e tecnologia. 👩‍💻
- - 📖 Estudando 📙HTML5, 📘CSS3, 📒JS & 📗C.
+ - 📖 Estudando 📒JS & 📗C.
  
 ###  
 
