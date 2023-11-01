@@ -1,7 +1,6 @@
 ### Olá, seja bem-vindo(a) ao meu perfil!
  
  - Me chamo Eytor, tenho 19 anos e sou apaixonado por programação e tecnologia. 👩‍💻
- - 📖 Estudando 📒JS & 📗C.
  
 ###  
 
@@ -10,15 +9,9 @@
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eytorlima&hide_border=false&theme=dark"/>
 </div>
 
-<div align="center" style="display: inline_block"><br>
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<a href="https://skillicons.dev">
- <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=c"/> 
-</a>
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c)](https://skillicons.dev)
 
 <hr/>
 
