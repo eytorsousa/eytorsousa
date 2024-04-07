@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a) ao meu perfil!
  
- - Me chamo Eytor, tenho 19 anos e sou apaixonado por programação e tecnologia. 👩‍💻
+ - Me chamo Eytor, tenho 20 anos e sou apaixonado por programação e tecnologia. 👩‍💻
  
 ###  
 
